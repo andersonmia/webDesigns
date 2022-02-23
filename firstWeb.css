@@ -1,0 +1,46 @@
+.navbar{
+    background-color:#F0F8FF ;
+    padding: 40px;
+    display: inline-flexbox;
+}
+a.navbar{
+    color:#4700FC ;
+    font-family: poppins;
+    
+}
+body{
+    background-color: #ffffff;
+}
+.circle{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-image: linear-gradient(45deg,#FC7300,#FA3F37,#F8007A);
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.padding{
+    padding: 30px;
+    margin: 60px;
+    
+}
+.hero{
+    font-size: 48px;
+}
+.p{
+    color: #BF4D34;
+}
+#order{
+  color: #FC7300;
+}
+#delivery{
+  color: #4700FC;
+}
+#orderNow{
+    border-style: #BF4D34,solid;
+    background-color: #fff;
+}
+div.body{
+    display: inline-block; 
+}
